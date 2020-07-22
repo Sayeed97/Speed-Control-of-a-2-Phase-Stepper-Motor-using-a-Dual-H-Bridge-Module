@@ -1,4 +1,5 @@
 # Speed-Control-of-a-2-Phase-Stepper-Motor-using-a-Dual-H-Bridge-Module
+This Project helps in understanding how a stepper motor works as we control the motor directly by GPIO pins using software interrupts and adjusting the frequency of the timer/counter. 
 This project requires an external 12V power supply which is given to the H-Bridge to power the stepper motor (NEMA 17HS4401).
 This projects uses a DSPIC33CH128MP508 Micro-Controller which is connected to a Dual H-Bridge Module using the GPIO pins. The Dual H Bridge Module is used to control the speed and direction of the 2-Phase Stepper Motor.
 All the libraries included in this project is setup using MCC in mplab, which is present in the c code. 
