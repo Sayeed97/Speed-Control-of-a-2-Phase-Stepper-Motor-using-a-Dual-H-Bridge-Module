@@ -8,3 +8,5 @@ An Opto-coupler module (Optional) is connected to one of the GPIOs of the Micro-
 Check the jpeg setup files to get a better idea about the Timer1, SCCP timer and ADC configuration.
 IN1, IN2, IN3, IN4 named GPIO pins can be directly connected to the H-Bridge IN1, IN2, IN3, IN4 pins. Look at PIN_setup.jpeg to get a better picture about pin mapping. 
 Note: do check if you have connected a common ground to all the devices in use. 
+
+Theory: 
